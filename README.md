@@ -1,4 +1,5 @@
 # llama-chat-AI
+https://github.com/luobei0926/llama-chat-AI/issues/1#issue-2221740178
 ## 1--首先安装conda环境
 	创建conda环境，进入环境
 	使用命令conda create -n env_name --clone lab
